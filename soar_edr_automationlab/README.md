@@ -19,7 +19,7 @@ Step 1:
 .\hcp_win_x64_release_4.29.0.exe -i < insert here installation key from limacharlie >
 Then Implement HackTool in Server.
 <div>
-  <img src="/soar_edr_automatedlab/img/construction/step_one.png" alt="First Step">
+  <img src="/soar_edr_automationlab/soar_edr_automatedlab/img/construction/step_one.png" alt="First Step">
 </div>
 
 Step 2:
@@ -53,22 +53,22 @@ Step 2:
 Step 3: 
 </br>Create a Slack Channel and a Tines Playbook.
 <div>
-  <img src="/soar_edr_automatedlab/img/construction/step_two.png" alt="Second Step">
+  <img src="/soar_edr_automationlab/soar_edr_automatedlab/img/construction/step_two.png" alt="Second Step">
 </div>
 </br>
 Step 4:
 </br>Build your Tines playbook.
 <div>
-  <img src="/soar_edr_automatedlab/img/tines_playbook/SOAR_EDR_playbook.png" alt="Playbook">
+  <img src="/soar_edr_automationlab/soar_edr_automatedlab/img/tines_playbook/SOAR_EDR_playbook.png" alt="Playbook">
 </div>
 </br>
 Step 5:
 </br>Connect the Tines Playbook via credentials with LimaCharlie and slack and test it in Tines.
 <div>
-  <img src="/soar_edr_automatedlab/img/construction/step_three.png" alt="Third Step">
+  <img src="/soar_edr_automationlab/soar_edr_automatedlab/img/construction/step_three.png" alt="Third Step">
 </div>
 </br> 
 Full example of Construction:
 <div>
-  <img src="/soar_edr_automatedlab/img/construction/soar_edr.png" alt="Full Example">
+  <img src="/soar_edr_automationlab/soar_edr_automatedlab/img/construction/soar_edr.png" alt="Full Example">
 </div>
