@@ -89,5 +89,5 @@ Create a Kali Linux VM and install MITRE Caldera with these commands:
 
 ### Full Construction:
 <div>
-  <img src="/siem_adversary_emulation_homelab/construction.png" alt="Full Construction">
+  <img src="/siem_adversary_homelab/siem_adversary_emulation_homelab/construction.png" alt="Full Construction">
 </div>
